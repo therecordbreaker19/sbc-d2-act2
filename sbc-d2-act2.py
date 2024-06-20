@@ -19,6 +19,6 @@ if (user_choice == 0 and c1 == 1 and c2 == 1) or (user_choice == 1 and c1 == 0 a
 elif (user_choice == 1 and c1 == 0 and c2 == 1) or (user_choice == 0 and c1 == 1 and c2 == 0):
     print("C2 wins!")
 elif (user_choice == 1 and c1 == 1 and c2 == 0) or (user_choice == 0 and c1 == 0 and c2 == 1):
-    print("C2 wins!")
+    print("C3 wins!")
 else:
     print("It's a draw!")
